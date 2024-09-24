@@ -1,0 +1,5 @@
+Some additional features implemented:
+
+- A versatile model build function that allows for the easy swapping of activation type, optimizer, layer count and layer sizes.
+
+- Additional analysis based on percent correct and average error in terms of rating, not based on RMSE.
